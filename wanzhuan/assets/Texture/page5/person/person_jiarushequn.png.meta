@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "a540e72c-ce98-499f-b683-14c8c959a194",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "person_jiarushequn": {
+      "ver": "1.0.4",
+      "uuid": "07ea237b-8500-4ea4-beba-79b8be605075",
+      "rawTextureUuid": "a540e72c-ce98-499f-b683-14c8c959a194",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -34,
+      "offsetY": 1.5,
+      "trimX": 18,
+      "trimY": 5,
+      "width": 583,
+      "height": 63,
+      "rawWidth": 687,
+      "rawHeight": 76,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

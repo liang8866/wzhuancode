@@ -1,0 +1,124 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "",
+    "_objFlags": 0,
+    "_native": "",
+    "data": {
+      "__id__": 1
+    },
+    "optimizationPolicy": 0,
+    "asyncLoadAssets": false,
+    "readonly": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "ylpage",
+    "_objFlags": 0,
+    "_parent": null,
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_prefab": {
+      "__id__": 3
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 0,
+      "height": 0
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "07c7b1JTWRNV7kHygOuObev",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "ylpage": {
+      "__id__": 1
+    },
+    "longIconNode": null,
+    "nameRichTextNode": null,
+    "myJinYuanLabelNode": null,
+    "myJinBiLabelNode": null,
+    "yongjiuFenhongLabelNode": null,
+    "linshiFenhongLabelNode": null,
+    "ggShouYiLableNode": null,
+    "longJieLabelNode": null,
+    "longNeedMoenyLabelNode": null,
+    "zhaolongiconNode": null,
+    "long_prefab": {
+      "__uuid__": "a66a5625-6200-4788-8fe4-1ea0b26c2ce0"
+    },
+    "huishouBtnNode": null,
+    "longPosList": [],
+    "longNodeList": [],
+    "countTime": 0,
+    "mainBgNode": null,
+    "toplayoutNode": null,
+    "downLayoutNode": null,
+    "topBgNode": null,
+    "hetieff_prefab": {
+      "__uuid__": "75674a8f-75ee-45f6-9c58-67c89b0632ff"
+    },
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "687eedec-8c1a-41f7-afc8-839c5e18a2a5"
+    },
+    "fileId": "9f5llir71KwJkqHL2UFMBR",
+    "sync": false
+  }
+]

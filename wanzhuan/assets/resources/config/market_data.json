@@ -1,0 +1,12 @@
+[
+    {"id":1,"marketLv":1,"friendNum":0,"videoNum":0,"money":0.3},
+    {"id":2,"marketLv":2,"friendNum":5,"videoNum":25,"money":0.35},
+    {"id":3,"marketLv":3,"friendNum":20,"videoNum":100,"money":0.4},
+    {"id":4,"marketLv":4,"friendNum":50,"videoNum":250,"money":0.45},
+    {"id":5,"marketLv":5,"friendNum":100,"videoNum":500,"money":0.5},
+    {"id":6,"marketLv":6,"friendNum":250,"videoNum":1250,"money":0.55},
+    {"id":7,"marketLv":7,"friendNum":500,"videoNum":2500,"money":0.6},
+    {"id":8,"marketLv":8,"friendNum":1000,"videoNum":5000,"money":0.7},
+    {"id":9,"marketLv":9,"friendNum":2500,"videoNum":12500,"money":0.8},
+    {"id":10,"marketLv":10,"friendNum":5000,"videoNum":25000,"money":1}
+    ]
